@@ -1,0 +1,4 @@
+total 0
+-rw-r--r-- 1 edi edi    0 Mar 10 21:54 123.txt
+-rw-r--r-- 1 edi edi   49 Mar 10 21:53 edi.txt
+drwxr-xr-x 1 edi edi 4096 Mar 10 21:53 src
